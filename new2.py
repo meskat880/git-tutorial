@@ -1,0 +1,1 @@
+print('sonnakoto yabai desu ne')
